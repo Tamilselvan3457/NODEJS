@@ -1,0 +1,36 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "JSON": "^1.0.0",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "exceljs": "^4.2.1",
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "jsdom": "^16.5.2",
+    "lodash": "^4.17.21",
+    "min-document": "^2.19.0",
+    "multer": "^1.4.2",
+    "mysql": "^2.18.1",
+    "node-document": "0.1.0-pre9",
+    "node-fetch": "^2.6.1",
+    "node-xlsx": "^0.16.1",
+    "nodemailer": "^6.5.0",
+    "read-excel-file": "^5.1.0",
+    "request": "^2.88.2",
+    "save": "^2.4.0",
+    "url": "^0.11.0",
+    "xlsx": "^0.16.9",
+    "xlsx-populate": "^1.21.0",
+    "yargs": "^16.2.0"
+  }
+}
